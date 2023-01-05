@@ -1,0 +1,1 @@
+# vtex-chattigo-images
