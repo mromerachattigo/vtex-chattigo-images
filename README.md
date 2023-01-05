@@ -1,10 +1,10 @@
 # ¡Bienvenido a Chattigo!
 
+En esta guia te enseñaremos que es **Chattigo** y como configurarlo correctamente en tu tienda de **VTEX** y asi poder brindar una óptima atención a tus clientes. 
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/mromerachattigo/vtex-chattigo-images/main/images/00.png">
 </div>
-
-En esta guia te enseñaremos que es **Chattigo** y como configurarlo correctamente en tu tienda de **VTEX** y asi poder brindar una óptima atención a tus clientes. 
 
 ### Indice
 1. ¿Qué es Chattigo?
