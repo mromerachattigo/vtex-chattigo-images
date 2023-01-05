@@ -1,11 +1,18 @@
 # ¡Bienvenido a Chattigo!
 
-![][image-00]
+<div align="center">
+    <img src="https://raw.githubusercontent.com/mromerachattigo/vtex-chattigo-images/main/images/00.png">
+</div>
 
-En esta guia te enseñaremos que es **Chattigo** y como configurarlo correctamente en tu tienda de **VTEX** y asi poder brindar una óptima atención a tus clientes.
+En esta guia te enseñaremos que es **Chattigo** y como configurarlo correctamente en tu tienda de **VTEX** y asi poder brindar una óptima atención a tus clientes. 
 
-
-INSERTAR INDICE CON REFS
+### Indice
+1. ¿Qué es Chattigo?
+2. ¿Como Chattigo se integra con tu tienda de VTEX?
+3. ¿Como configurar tu propio Webchat?
+   - A. Creación de un cliente
+   - B. Creación de un canal de Webchat
+   - C. Instalación de Chattigo App en VTEX
 
 ## ¿Qué es Chattigo?
 ![][image-01]
