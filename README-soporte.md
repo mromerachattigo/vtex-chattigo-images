@@ -20,6 +20,4 @@ En el caso de que se contacte un cliente que no posee Chattigo, lo que ofrecerem
 
 Si un cliente de Chattigo quiere instalar nuestra aplicación, lo que necesitará es un *canal de Webchat* si no dispone. Ya con su canal inicializado, deberemos facilitarle el *DID* del mismo para que pueda colocarlo en su store de VTEX.
 
-![][image-50]
-
 [image-50]: https://raw.githubusercontent.com/mromerachattigo/vtex-chattigo-images/main/images/50.png
